@@ -39,4 +39,9 @@ Make sure you have **Node.js** installed. You can download it from [here](https:
 
 ## Screenshots
 ![Screenshot](Screenshots/1_startscreen.png "Startscreen")
-![Screenshot](Screenshots/2_name input.png "Startscreen")
+![Screenshot](Screenshots/2_name_input.png "Name Input")
+![Screenshot](Screenshots/3_game.png "Game Sample")
+![Screenshot](Screenshots/4_game.png "Game Sample")
+![Screenshot](Screenshots/5_game.png "Game Sample")
+![Screenshot](Screenshots/6_game.png "Game Sample")
+![Screenshot](Screenshots/7_scoreboard.png "Scoreboard")
