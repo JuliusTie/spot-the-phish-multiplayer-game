@@ -40,7 +40,7 @@ Make sure you have **Node.js** installed. You can download it from [here](https:
 
 ## Improve the fun
 For more fun, you can purchase programmable buzzers and change the button assignments. This makes the security awareness game a complete success.
-![Screenshot](Screenshots/Button.jpg "Button")
+<img src="Screenshots/Button.jpg" width="30%"/>
 
 ## Screenshots
 ![Screenshot](Screenshots/1_startscreen.png "Startscreen")
