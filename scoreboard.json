@@ -1,0 +1,38 @@
+[
+  {
+    "player1": {
+      "name": "Julius",
+      "correct": 2,
+      "time": "2.29"
+    },
+    "player2": {
+      "name": "Kai Uwe",
+      "correct": 2,
+      "time": "2.56"
+    }
+  },
+  {
+    "player1": {
+      "name": "Jan Ulrich",
+      "correct": 3,
+      "time": "2.18"
+    },
+    "player2": {
+      "name": "Peter",
+      "correct": 3,
+      "time": "1.18"
+    }
+  },
+  {
+    "player1": {
+      "name": "GitHub1",
+      "correct": 3,
+      "time": "5.34"
+    },
+    "player2": {
+      "name": "GitHub2",
+      "correct": 3,
+      "time": "10.90"
+    }
+  }
+]

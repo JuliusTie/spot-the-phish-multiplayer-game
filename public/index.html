@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spot the Phish</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="logo">
+        <img src="logo.png" alt="Logo">
+    </div>
+
+    <div id="image-counter" class="image-counter hidden">1/10</div> <!-- Bildzähler -->
+
+    <div id="start-screen" class="screen">
+        <img src="start.png" alt="Start Screen" class="background">
+        <div id="instructions" class="blinking">Press a Button to start the Game</div>
+        <div id="additional-info">
+            Player 1: Use Buttons 1 (Clean/Confirm) and 2 (Phishing)<br>
+            Player 2: Use Buttons 3 (Clean/Confirm) and 4 (Phishing)
+        </div>
+    </div>
+
+<div id="name-screen" class="screen hidden">
+    <div class="name-input">
+        <label for="player1">Player 1 Name:</label>
+        <input type="text" id="player1">
+    </div>
+    <div class="name-input">
+        <label for="player2">Player 2 Name:</label>
+        <input type="text" id="player2">
+    </div>
+    <div id="confirm-names" class="blinking">Press a Button to confirm the names</div>
+</div>
+
+
+    <div id="countdown-screen" class="screen hidden">
+        <div id="countdown"></div>
+    </div>
+
+    <div id="game-screen" class="screen hidden">
+        <img id="game-image" class="hidden" src="" alt="Game Image"> <!-- Initial hidden -->
+        <div id="feedback"></div>
+        <div id="icon"></div> <!-- Icon for correct/incorrect answer -->
+        <div id="timer" class="red"></div>
+    </div>
+
+<div id="scoreboard-screen" class="screen hidden">
+    <div id="scoreboard-container">
+        <div id="scoreboard"></div>
+    </div>
+    <div id="restart-instructions">Press any button to return to the main screen</div>
+</div>
+
+    <script src="script.js"></script>
+</body>
+</html>
