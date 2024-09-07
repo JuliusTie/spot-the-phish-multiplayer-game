@@ -37,6 +37,11 @@ Make sure you have **Node.js** installed. You can download it from [here](https:
    ```
 4. Open your browser and go to http://localhost:3000 to start the game.
 
+
+## Improve the fun
+For more fun, you can purchase programmable buzzers and change the button assignments. This makes the security awareness game a complete success.
+![Screenshot](Screenshots/button.jpg "Button")
+
 ## Screenshots
 ![Screenshot](Screenshots/1_startscreen.png "Startscreen")
 ![Screenshot](Screenshots/2_name_input.png "Name Input")
